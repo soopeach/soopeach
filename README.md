@@ -6,16 +6,18 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... Android, Kotlin, Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... hsjeon584@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 [![wakatime](https://wakatime.com/badge/user/5c3495b1-2ba6-48d4-b188-2e5bd8f38f60.svg)](https://wakatime.com/@5c3495b1-2ba6-48d4-b188-2e5bd8f38f60)
+
+- 🔭 I’m currently studying(working) on ... Home ,Cafe.      
+- 🌱 I’m currently learning ... Android, Kotlin, Python, PS. 
+- 👯 I’m looking to collaborate on ... EveryWhere. 
+- 🤔 I’m looking for help with ... English, Android, Kotlin, Python... etc.  
+- 💬 Ask me about ... Everything not only about me 
+- 📫 How to reach me: ... hsjeon584@gmail.com. 
+- 😄 Pronouns: ... thanks to visit. 
+- ⚡ Fun fact: ... Love people. 
+
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoopeach&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
