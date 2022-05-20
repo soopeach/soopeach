@@ -8,14 +8,14 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/5c3495b1-2ba6-48d4-b188-2e5bd8f38f60.svg)](https://wakatime.com/@5c3495b1-2ba6-48d4-b188-2e5bd8f38f60)
 
-- 🔭 I’m currently studying(working) on ... Home ,Cafe.      
-- 🌱 I’m currently learning ... Android, Kotlin, Python, PS. 
-- 👯 I’m looking to collaborate on ... EveryWhere. 
-- 🤔 I’m looking for help with ... English, Android, Kotlin, Python... etc.  
-- 💬 Ask me about ... Everything not only about me 
-- 📫 How to reach me: ... hsjeon584@gmail.com. 
-- 😄 Pronouns: ... thanks to visit. 
-- ⚡ Fun fact: ... Love people. 
+- 🔭 I’m currently studying(working) on ... **Home ,Cafe.**     
+- 🌱 I’m currently learning ... Android, **Kotlin, Python, PS.** 
+- 👯 I’m looking to collaborate on ... **EveryWhere.** 
+- 🤔 I’m looking for help with ... **English, Android, Kotlin, Python... etc.**  
+- 💬 Ask me about ... **Everything not only about me** 
+- 📫 How to reach me: ... **hsjeon584@gmail.com.** 
+- 😄 Pronouns: ... **thanks to visit.** 
+- ⚡ Fun fact: ... **Love people.** 
 
 
 
