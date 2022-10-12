@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsjeon01)](https://solved.ac/hsjeon01/) ![soopeach's github stats](https://github-readme-stats.vercel.app/api?username=soopeach&show_icons=true)
 
+<a href="https://opgc.me/#/users/soopeach" target="_blank"><img src="https://api.opgc.me/githubs/users/soopeach/tag/?theme=basic" /></a>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soopeach&exclude_repo=Dinosaur-Adventure)](https://github.com/anuraghazra/github-readme-stats)
 
