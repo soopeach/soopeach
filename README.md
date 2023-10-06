@@ -25,3 +25,13 @@ Here are some ideas to get you started:
 
 네이버 커넥트재단 <부스트캠프 웹・모바일 7기> 챌린지 수료 / 2022.07.18 ~ 2022.08.12  
 네이버 커넥트재단 <부스트캠프 웹・모바일 7기> 멤버십 수료 / 2022.08.29 ~ 2022.12.26
+
+## 배포
+
+<img src="https://github.com/soopeach/soopeach/assets/90144041/ae327d25-3dfe-47fd-b788-76d255aabb65" width="100" height="100"/>
+
+[선인장 - 선택이 어려운 인간들을 위한 장소](https://play.google.com/store/apps/details?id=app.saboten.androidApp)
+
+<img src="https://github.com/soopeach/soopeach/assets/90144041/41273ea2-82e2-4105-a9bf-469d331e20b5" width="100" height="100"/>
+
+[JMTeng](https://play.google.com/store/apps/details?id=org.gdsc.jmt&hl=ko-KR)
