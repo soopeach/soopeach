@@ -35,3 +35,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/soopeach/soopeach/assets/90144041/41273ea2-82e2-4105-a9bf-469d331e20b5" width="100" height="100"/>
 
 [JMTeng](https://play.google.com/store/apps/details?id=org.gdsc.jmt&hl=ko-KR)
+
+<img src="https://github.com/soopeach/soopeach/assets/90144041/d48ac869-f61b-43a6-8914-65cac2cfac29" width="100" height="100"/>
+
+[Smalt](https://play.google.com/store/apps/details?id=com.soopeach.smalt&hl=en)
